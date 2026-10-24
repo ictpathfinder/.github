@@ -1,11 +1,14 @@
 # ICT Pathfinder
 
-This repository is the shared home for ICT Pathfinder's organization profile and supporting materials. It provides a place to introduce the organization, point visitors to its repositories, and maintain shared assets and documentation.
+![ICT Pathfinder Logo](./ict-pathfinder-logo.svg)
 
-## Repository contents
+*Architecture, services & automation for higher education.*
 
-- [`profile/README.md`](profile/README.md) — the organization profile shown on GitHub.
-- [`assets/`](assets/) — organization-wide visual assets, including the logo.
-- [`docs/`](docs/) — basic documentation and architecture materials.
+A modular management suite for higher education IT, connecting enterprise architecture, IT service management, configuration data, and automation through integrations with existing ticketing systems.
 
-To explore the organization's projects, visit the [ICT Pathfinder repositories](https://github.com/ictpathfinder?tab=repositories).
+## Organization resources
+
+- [Browse ICT Pathfinder repositories](https://github.com/ictpathfinder?tab=repositories).
+- [Organization profile](profile/README.md).
+- [Documentation and architecture materials](docs/README.md).
+- [Shared visual assets](assets/README.md).
